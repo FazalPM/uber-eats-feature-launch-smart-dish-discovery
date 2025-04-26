@@ -27,7 +27,26 @@ The goal: **help users decide faster, discover better, and trust their choices.*
 - Trending dishes are shown first, making it easy to trust and choose.
 
 ---
+## 🛠️ Product Features
 
+- Real-time trending dish ranking
+- Smart search understanding ("best dinner tonight")
+- Personalized trending suggestions
+- Trending badges and order count indicators
+
+---
+
+## 📅 Product Roadmap Timeline
+
+| Phase | Timeline | Goal |
+|:---|:---|:---|
+| MVP Build | Month 1-2 | Build basic trending dish discovery |
+| Beta Launch | Month 3 | Launch beta in Hartford |
+| Expansion to 10 Cities | Month 4-6 | Expand to 10 cities after feedback |
+| Personalization Upgrade | Month 7-8 | Add AI personalization |
+| Global Rollout | Month 9+ | Global launch of trending discovery |
+
+---
 ## User Journey
 
 1. Open Uber Eats app.
