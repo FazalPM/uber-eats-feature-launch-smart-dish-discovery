@@ -27,7 +27,7 @@ The goal: **help users decide faster, discover better, and trust their choices.*
 - Trending dishes are shown first, making it easy to trust and choose.
 
 ---
-## 🛠️ Product Features
+## Product Features
 
 - Real-time trending dish ranking
 - Smart search understanding ("best dinner tonight")
