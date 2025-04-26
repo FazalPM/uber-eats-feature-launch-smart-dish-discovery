@@ -36,7 +36,7 @@ The goal: **help users decide faster, discover better, and trust their choices.*
 
 ---
 
-## 📅 Product Roadmap Timeline
+## Product Roadmap Timeline
 
 | Phase | Timeline | Goal |
 |:---|:---|:---|
