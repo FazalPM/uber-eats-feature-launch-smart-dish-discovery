@@ -146,4 +146,14 @@ Smart Dish Discovery transforms Uber Eats from a food delivery app into a **trus
 It helps users order faster, feel better about their choices, and discover amazing meals nearby.
 
 ---
+## About Me
 
+Hi, I'm Fazal — a Product Manager with a passion for building intuitive, data-driven products that solve real user problems.  
+I specialize in connecting user needs with technology, designing better experiences, and driving business impact through product thinking.
+
+I created this case study to practice real-world product discovery, UX design, and MVP planning for a food delivery experience.  
+I'm always looking to learn, build, and grow through solving meaningful challenges.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/fazal-fazal-mba/)!
+
+---
