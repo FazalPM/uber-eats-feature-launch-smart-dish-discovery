@@ -40,7 +40,7 @@ The goal: **help users decide faster, discover better, and trust their choices.*
 
 ## Mockups
 
-### 🔎 Search Screen
+### Search Screen
 
 ![Search Screen Mockup](search_screen_mockup.png)
 
