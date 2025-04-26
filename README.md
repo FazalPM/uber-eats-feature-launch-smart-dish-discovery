@@ -124,20 +124,6 @@ The goal: **help users decide faster, discover better, and trust their choices.*
 - **Personal Food Delivery Experience** – Used real-world user behavior insights on decision-making while ordering food online
 
 ---
-## Tools and Data Used
-
-### Tools
-- **Figma** – For designing the mobile screen mockups (search screen, dish detail, notifications)
-- **Canva** – For creating presentation-style visuals and polishing UX flows
-- **Python (Matplotlib, NetworkX)** – For building the pie chart, bar chart, and system architecture diagram
-- **Google Sheets** – To simulate sample order volume data (for trend analysis charts)
-
-### Data Sources
-- **Simulated Order Data** – Created sample restaurant orders (e.g., 310 Ribeye Steak orders, 210 Sirloin orders) to build trending charts
-- **Uber Eats Public App Reviews** – Reviewed real user feedback from the App Store to understand frustration points around search and discovery
-- **Personal Food Delivery Experience** – Used real-world user behavior insights on decision-making while ordering food online
-
----
 
 
 ## Final Thoughts
